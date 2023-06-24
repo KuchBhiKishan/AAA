@@ -17,7 +17,7 @@ public class RandomWeb extends RandomWeb_Repo {
 	 
 	private void syso() {
 		// TODO Auto-generated method stub
-System.out.println("");
+
 	}
 	@BeforeClass
 	public void BeforeClass() throws InterruptedException {
